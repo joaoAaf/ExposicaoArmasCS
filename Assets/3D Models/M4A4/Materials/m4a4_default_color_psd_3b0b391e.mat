@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: awp_default_color_psd_2bf6ba1e
+  m_Name: m4a4_default_color_psd_3b0b391e
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -28,11 +28,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: d3bb7e8b9af8ece0690c2ba46bf08a00, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5e3864d7a3b5107d3844f8d86dd16315, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: dc2631581060adffc99d6b323a7b3236, type: 3}
+        m_Texture: {fileID: 2800000, guid: eb5e6281b05b325c0b85d72340b2443d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -52,11 +52,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: d3bb7e8b9af8ece0690c2ba46bf08a00, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5e3864d7a3b5107d3844f8d86dd16315, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: c1d301f743c1e764096fa83102691e64, type: 3}
+        m_Texture: {fileID: 2800000, guid: 491b967ad425f7058819a5e898569479, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -124,7 +124,7 @@ Material:
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &1167233366161974204
+--- !u!114 &3780077251119605330
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
