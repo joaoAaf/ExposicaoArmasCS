@@ -306,7 +306,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7828469785477251408, guid: f4a2b1e937af4df78a8c8adf247740cd, type: 3}
       propertyPath: m_Name
-      value: Mostruario (1)
+      value: Mostruario2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -539,7 +539,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7828469785477251408, guid: f4a2b1e937af4df78a8c8adf247740cd, type: 3}
       propertyPath: m_Name
-      value: Mostruario (2)
+      value: Mostruario3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -709,7 +709,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7828469785477251408, guid: f4a2b1e937af4df78a8c8adf247740cd, type: 3}
       propertyPath: m_Name
-      value: Mostruario
+      value: Mostruario1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
